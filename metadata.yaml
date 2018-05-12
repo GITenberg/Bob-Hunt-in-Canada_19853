@@ -1,0 +1,28 @@
+_repo: Bob-Hunt-in-Canada_19853
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Orton, George W.
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '8920'
+    url: http://www.gutenberg.org/2009/agents/8920
+    wikipedia: http://www.archives.upenn.edu/histy/people/1800s/orton_geo_w.html
+description: ''
+gutenberg_issued: '2006-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camps -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Canada -- Juvenile fiction'
+title: Bob Hunt in Canada
+url: http://www.gutenberg.org/ebooks/19853
