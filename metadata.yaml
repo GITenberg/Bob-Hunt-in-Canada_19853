@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8920
     wikipedia: http://www.archives.upenn.edu/histy/people/1800s/orton_geo_w.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19853#Bob-Hunt-in-Canada
 gutenberg_issued: '2006-11-17'
 gutenberg_type: Text
 identifiers:
